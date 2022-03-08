@@ -21,3 +21,4 @@ Assuming they are compatable with GNU/Linux...
 * Turn down the volume a bit to block out the noise of your own voice.
 * In an event you cannot use headphones, it is urgent that you either mute your mic (which will disable voice input) ***or*** turn down your speaker volume a ton so you can barely hear it.
 * This last solution means, however, that your video will come out very quiet. There is no solution for this currently to keep things unbloated.
+* Always keep this in mind: your voice might likely be better and more well announciated than my voice, so sit back and talk away. You can always cut this using a tool like Shotcut.

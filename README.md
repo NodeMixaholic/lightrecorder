@@ -1,6 +1,6 @@
 # lightrecorder
 
-Lightweight recorder for simple screencasting/vlogging.
+Lightweight recorder for simple screencasting/vlogging. Afterall, in a world without OBS and SimpleScreenRecorder, who needs SLOBS and ***manual*** FFMEPG?
 
 ## How do I list my possible devices?
 

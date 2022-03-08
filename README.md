@@ -1,2 +1,2 @@
 # lightrecorder
-Lightweight recorder for simple screencasting.
+Lightweight recorder for simple screencasting/vlogging.
